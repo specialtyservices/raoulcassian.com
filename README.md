@@ -13,3 +13,5 @@ Provide a simple, ad-free way for people to connect with me.
 
 Built with plain HTML + CSS, no frameworks, no dependencies.
 Hosted for free on GitHub Pages.
+
+Website v4 — name/subline/tagline hierarchy + ‘What I Do’ heading.
